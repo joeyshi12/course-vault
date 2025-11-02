@@ -1,4 +1,4 @@
-# univault
+# course-vault
 
 A collection of course notes taken in Obsidian.
 
