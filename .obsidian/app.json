@@ -11,7 +11,7 @@
   "vimMode": true,
   "promptDelete": false,
   "defaultViewMode": "source",
-  "readableLineLength": false,
+  "readableLineLength": true,
   "autoPairMarkdown": false,
   "spellcheck": false,
   "showLineNumber": false,
@@ -25,5 +25,6 @@
   "smartIndentList": false,
   "showIndentGuide": true,
   "foldIndent": true,
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "strictLineBreaks": false
 }

@@ -4,11 +4,7 @@
 .obsidian/workspace.json
 
 # image files
-attachments/*.png
+/attachments
 
 # macOS
 .DS_Store
-
-# python
-.env
-.token
