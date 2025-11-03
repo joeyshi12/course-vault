@@ -1,10 +1,6 @@
 ---
-course: CPSC317
-title: M7 Learning Goals
 tags:
   - learning-goals
-module: 7
-date: [[2022-11-23]]
 ---
 
 ## A.  General Knowledge of Cryptographic Protocols

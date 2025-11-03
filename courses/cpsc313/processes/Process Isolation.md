@@ -1,6 +1,4 @@
 ---
-course: "cpsc313"
-title: "Process Isolation"
 ---
 
 - Programs run in different **processes**

@@ -1,10 +1,5 @@
 ---
-course: CPSC317
-title: Network Routing - One Hop
-topic: Routing
 tags:
-module: 2
-date: [[2022-11-23]]
 ---
 
 

@@ -1,6 +1,4 @@
 ---
-module: "M2"
-topic: "IPv4 Datagram Format"
 chapter: "4.3.1"
 ---
 

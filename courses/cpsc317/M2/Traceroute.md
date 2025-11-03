@@ -1,10 +1,6 @@
 ---
-course: CPSC317
-title: Traceroute
 tags:
   - network-discovery-tools
-module: 2
-date: 2022-10-12
 ---
 
 ## Traceroute

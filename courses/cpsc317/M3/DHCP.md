@@ -1,11 +1,7 @@
 ---
-course: CPSC317
-title: DHCP
 tags:
   - [dhcp
   - ip]
-module: 3
-date: [[2022-10-12]]
 ---
 
 ## Dynamic Host Configuration Protocol

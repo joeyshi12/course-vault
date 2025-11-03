@@ -1,6 +1,4 @@
 ---
-course: "cpsc313"
-title: "Case Studies and Processes"
 tutorial: 9
 ---
 

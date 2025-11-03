@@ -1,6 +1,4 @@
 ---
-module: 8
-date: [[2022-11-24]]
 ---
 
 ## OLAP Queries

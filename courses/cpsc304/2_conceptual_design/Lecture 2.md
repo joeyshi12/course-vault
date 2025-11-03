@@ -1,6 +1,4 @@
 ---
-topic: Entity Relationship Model
-lecture: 2
 ---
 
 ## Levels of Abstraction

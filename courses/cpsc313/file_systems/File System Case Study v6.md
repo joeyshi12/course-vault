@@ -1,6 +1,4 @@
 ---
-course: "cpsc313"
-title: "Unix v6 File System"
 ---
 
 ## Overview

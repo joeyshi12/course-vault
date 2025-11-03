@@ -1,9 +1,6 @@
 ---
-course: CPSC317
-title: ARP
 tags:
   - network-protocols/link-layer
-module: 3
 ---
 
 # Address Resolution Protocol

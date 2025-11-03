@@ -1,13 +1,7 @@
 ---
-course: CPSC317
-title: Hamming Codes
-topic: Error Detection
 tags:
   - error-detection
   - link-layer-services
-module: 3
-lecture: 10
-date: [[2022-10-7]]
 ---
 
 ## Parity Check

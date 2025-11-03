@@ -1,6 +1,4 @@
 ---
-course: "cpsc313"
-title: "Caching (reads)"
 ---
 
 ## Cache Line (block) size Trade-offs

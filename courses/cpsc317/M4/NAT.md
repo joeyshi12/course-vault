@@ -1,11 +1,7 @@
 ---
-course: CPSC317
-title: NAT
 tags:
   - network-protocols/transport-layer
   - ipv4
-module: 4
-date: [[2022-10-19]]
 ---
 
 ## Network Address Translation

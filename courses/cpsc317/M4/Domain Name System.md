@@ -1,8 +1,6 @@
 ---
 tags:
   - network-protocols/application-layer/dns
-module: 4
-lecture: 1
 ---
 
 A **domain name** is an identification string that defines a realm

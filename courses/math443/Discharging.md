@@ -1,8 +1,5 @@
 ---
-course: MATH443
-title: Discharging
 tags:
-date: [[2023-03-20]]
 ---
 
 ## Observation

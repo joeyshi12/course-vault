@@ -1,8 +1,5 @@
 ---
-course: MATH443
-title: Euler's Identity
 tags:
-date: [[2023-03-15]]
 ---
 
 ## Theorem

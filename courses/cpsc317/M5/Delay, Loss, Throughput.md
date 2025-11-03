@@ -1,10 +1,5 @@
 ---
-course: CPSC317
-title: Delay, Loss, Throughput
-topic: Packet-Switched Networks
 tags:
-module: 5
-date: [[2022-10-31]]
 ---
 
 # Delay from Node

@@ -1,6 +1,4 @@
 ---
-module: 6
-date: [[2022-11-01]]
 ---
 
 ## Table Definitions

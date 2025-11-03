@@ -1,7 +1,4 @@
 ---
-course: "cpsc314"
-title: "Texture Mapping"
-lecture: 16
 chapters: [15]
 ---
 

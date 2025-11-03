@@ -1,9 +1,6 @@
 ---
-course: MATH443
-title: Edge colourings
 chapter: 10.3
 tags:
-date: [[2023-03-29]]
 ---
 
 A proper edge colouring of a graph $G$

@@ -1,11 +1,7 @@
 ---
-course: CPSC317
-title: Cryptography
 topic:
 tags:
   - cryptography
-module: 7
-date: [[2022-11-25]]
 ---
 ## Symmetric Key Cryptography
 

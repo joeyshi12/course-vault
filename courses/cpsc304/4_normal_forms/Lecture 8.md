@@ -1,5 +1,4 @@
 ---
-lecture: 8
 ---
 
 ![[Pasted image 20221004153842.png|800]]

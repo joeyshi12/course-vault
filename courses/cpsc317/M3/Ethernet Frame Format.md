@@ -1,11 +1,7 @@
 ---
-course: CPSC317
-title: Ethernet Frame Format
 tags:
   - frame
   - format
-module: 3
-date: [[2022-10-12]]
 ---
 
 ![[Ethernet Frame Format 2022-10-11 10.59.04.excalidraw|700]]

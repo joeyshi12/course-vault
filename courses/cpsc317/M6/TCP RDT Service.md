@@ -1,9 +1,5 @@
 ---
-course: CPSC317
-title: TCP RDT Service
 tags:
-module: 
-date: [[2022-12-13]]
 ---
 
 TCP creates a RDT service on top of IP's unreliable best-effort service.

@@ -1,6 +1,4 @@
 ---
-course: "cpsc313"
-title: "Introduction to Caching"
 tutorial: 5
 ---
 

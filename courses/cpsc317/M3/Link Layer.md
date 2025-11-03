@@ -1,10 +1,6 @@
 ---
-course: CPSC317
-title: Link Layer
 tags:
   - network-protocols/link-layer
-module: 3
-date: [[2022-12-14]]
 ---
 
 ## Link Layer

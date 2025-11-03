@@ -1,6 +1,4 @@
 ---
-course: "cpsc313"
-title: "Naming"
 ---
 
 The problem to solve is reading the inode given a pathname

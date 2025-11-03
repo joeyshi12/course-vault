@@ -1,7 +1,4 @@
 ---
-course: "cpsc314"
-title: "Animation"
-lecture: 27
 ---
 
 Key frames are often manually set

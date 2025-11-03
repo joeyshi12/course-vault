@@ -1,11 +1,7 @@
 ---
-course: CPSC317
-title: One's Complement
 topic:
 tags:
   - checksums
-module: 6
-date: [[2022-11-02]]
 ---
 
 Checksums appear in [[IPv4 Datagram Format|IPv4]] and UDP

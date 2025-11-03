@@ -1,10 +1,6 @@
 ---
-course: CPSC317
-title: M1 Learning Goals
 tags:
   - learning-goals
-module: 1
-date: 2022-10-12
 ---
 
 1. Design

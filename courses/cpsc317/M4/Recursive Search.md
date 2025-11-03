@@ -1,8 +1,6 @@
 ---
 tags:
   - network-protocols/application-layer/dns
-module: 4
-lecture: 2
 ---
 
 - Pro: intermediate results can get cached

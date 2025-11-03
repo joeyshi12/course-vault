@@ -1,6 +1,4 @@
 ---
-module: 9
-date: [[2022-12-06]]
 ---
 
 ## Definitions

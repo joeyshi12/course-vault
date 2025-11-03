@@ -1,7 +1,4 @@
 ---
-topic: SQL
-module: 6
-date: [[2022-11-17]]
 ---
 
 ## Special Joins

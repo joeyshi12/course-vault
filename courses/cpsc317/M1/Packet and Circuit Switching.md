@@ -1,9 +1,5 @@
 ---
-course: CPSC317
-title: Packet and Circuit Switching
 tags:
-module: 1
-date: [[2022-12-16]]
 ---
 
 ## Packet-switching

@@ -1,6 +1,4 @@
 ---
-course: "cpsc313"
-title: "Multiple Cores and Processors"
 ---
 
 Suppose we are sending an invalidation message to other cores, but

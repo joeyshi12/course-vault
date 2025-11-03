@@ -1,7 +1,6 @@
 ---
 tags:
   - datalog
-module: 7
 ---
 
 Table schemas:

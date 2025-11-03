@@ -1,6 +1,5 @@
 ---
 topics: ["normal-forms"]
-lecture: 9
 ---
 
 ## Exercise 1

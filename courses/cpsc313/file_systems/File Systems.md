@@ -1,6 +1,4 @@
 ---
-course: "cpsc313"
-title: "File Systems"
 ---
 
 ## File: stream of bytes

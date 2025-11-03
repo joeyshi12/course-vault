@@ -1,6 +1,4 @@
 ---
-course: "cpsc313"
-title: "Memory Hierarchy"
 chapters: [6.2, 6.3]
 ---
 

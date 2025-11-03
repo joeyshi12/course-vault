@@ -1,6 +1,4 @@
 ---
-course: "cpsc313"
-title: "Virtual Memory"
 ---
 
 ## Big Picture

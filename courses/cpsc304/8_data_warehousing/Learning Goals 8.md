@@ -1,7 +1,4 @@
 ---
-topic: Learning Goals
-module: 8
-date: [[2022-11-24]]
 ---
 
 ## Learning Goals

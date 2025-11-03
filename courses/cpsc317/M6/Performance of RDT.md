@@ -1,10 +1,6 @@
 ---
-course: CPSC317
-title: Performance of RDT
-topic: RDT
 tags:
   - rdt
-module: 6
 ---
 
 ## RDT 3.0

@@ -1,8 +1,4 @@
 ---
-course: "cpsc317"
-topic: "IP Header"
-module: 2
-lecture: 7
 ---
 
 ## Network Layer

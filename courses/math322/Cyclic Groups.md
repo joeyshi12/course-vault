@@ -1,9 +1,6 @@
 ---
-course: CPSC322
-title: Cyclic Groups
 tags:
 chapter: 1.5
-date: [[2022-10-14]]
 ---
 
 ## Properties

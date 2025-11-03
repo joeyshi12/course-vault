@@ -1,5 +1,4 @@
 ---
-date: [[2022-11-22]]
 ---
 
 Table schemas:

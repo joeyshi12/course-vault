@@ -1,9 +1,6 @@
 ---
-course: CPSC317
-title: OSPF
 tags:
   - network-protocols/application-layer
-module: 2 
 ---
 
 ## Open Shortest Path First

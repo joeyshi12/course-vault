@@ -1,10 +1,6 @@
 ---
-course: CPSC317
-title: Average Delay
 topic:
 tags:
-module: 6
-date: [[2022-11-02]]
 ---
 
 $$\text{Avg Delay} = \frac{S}{1 - u}, \quad S := \text{Service time} = \frac{L}{R}, \quad u := \text{utilization/intensity}$$

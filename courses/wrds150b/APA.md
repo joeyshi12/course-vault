@@ -1,5 +1,4 @@
 ---
-topic: "APA"
 week: 8
 ---
 

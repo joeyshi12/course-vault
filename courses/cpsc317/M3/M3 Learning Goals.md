@@ -1,10 +1,6 @@
 ---
-course: CPSC317
-title: M3 Learning Goals
 tags:
   - learning-goals
-module: 3
-date: [[2022-10-12]]
 ---
 
 1. Link Layer

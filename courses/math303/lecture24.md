@@ -1,7 +1,5 @@
 ---
-lecture: 24
 tags:
-date: [[2023-03-13]]
 ---
 
 ## Poisson Thinning

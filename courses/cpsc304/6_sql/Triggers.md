@@ -1,7 +1,4 @@
 ---
-topic: SQL
-module: 6
-date: [[2022-11-17]]
 ---
 
 A procedure that starts automatically if specified changes occur to the DBMS.

@@ -1,6 +1,4 @@
 ---
-course: "cpsc314"
-title: "Multipass Rendering"
 ---
 
 ## Multipass Rendering

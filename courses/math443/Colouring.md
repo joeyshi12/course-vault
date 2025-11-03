@@ -1,9 +1,6 @@
 ---
-course: MATH443
-title: Colouring
 tags:
   - colouring
-date: [[2023-03-22]]
 ---
 
 Let $G$ be a graph.

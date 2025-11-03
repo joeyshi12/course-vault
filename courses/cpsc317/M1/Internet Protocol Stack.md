@@ -1,9 +1,5 @@
 ---
-course: CPSC317
-title: Internet Protocol Stack
 tags:
-module: 1
-date: [[2022-10-12]]
 ---
 
 | Stack       | Description                                                 | Examples Protocols        |

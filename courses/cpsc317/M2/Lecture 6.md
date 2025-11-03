@@ -1,8 +1,4 @@
 ---
-course: "cpsc317"
-topic: "IP Header"
-module: "m2"
-lecture: 6
 ---
 
 ## IP Format

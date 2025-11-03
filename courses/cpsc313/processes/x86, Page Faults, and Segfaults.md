@@ -1,6 +1,4 @@
 ---
-course: "cpsc313"
-title: "x86, Page Faults, and Segfaults"
 ---
 
 

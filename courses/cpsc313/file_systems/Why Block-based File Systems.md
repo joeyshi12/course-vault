@@ -1,6 +1,4 @@
 ---
-course: "cpsc313"
-title: "Why Block-based File Systems?"
 source: "P21.1"
 ---
 

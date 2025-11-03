@@ -1,9 +1,6 @@
 ---
-topic: View
 tags:
   - view
-module: 6
-date: [[2022-11-15]]
 ---
 ## Example
 

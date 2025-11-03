@@ -1,6 +1,4 @@
 ---
-course: "cspc313"
-title: "File System Case Study ext2"
 ---
 
 Keeps multiple copies of superblock and block descriptor table so that we can still read the rest of the file system

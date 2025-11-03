@@ -1,6 +1,4 @@
 ---
-course: "cpsc313"
-title: "Introduction to Caching"
 lesson: "P12.1"
 chapters: [6.2, 6.3]
 ---

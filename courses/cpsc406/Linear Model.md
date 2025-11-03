@@ -1,9 +1,6 @@
 ---
-course: CPSC406
-title: Linear Model
 tags:
   - []
-date: [[2023-01-10]]
 ---
 
 $A = [a_1, \dots, a_n]$

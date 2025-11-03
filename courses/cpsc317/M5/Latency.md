@@ -1,10 +1,6 @@
 ---
-course: CPSC317
-title: Latency
 topic:
 tags:
-module: 5
-date: [[2022-10-26]]
 ---
 
 

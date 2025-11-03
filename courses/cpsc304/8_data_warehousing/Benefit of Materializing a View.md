@@ -1,7 +1,4 @@
 ---
-topic: Views
-module: 8
-date: [[2022-12-01]]
 ---
 
 ## HRU Algorithm

@@ -1,10 +1,5 @@
 ---
-course: CPSC317
-title: M5 Learning Goals
-topic: Learning Goals
 tags:
-module: 5
-date: [[2022-10-26]]
 ---
 
 

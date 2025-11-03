@@ -1,6 +1,4 @@
 ---
-topic: Entity Relationship Model
-lecture: 3
 ---
 
 

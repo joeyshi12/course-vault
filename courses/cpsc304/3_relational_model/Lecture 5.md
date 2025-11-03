@@ -1,6 +1,4 @@
 ---
-topic: The Relational Model
-lecture: 5
 ---
 
 ## Logical Schema Representation Specs

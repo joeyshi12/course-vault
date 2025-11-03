@@ -1,5 +1,4 @@
 ---
-lecture: 7
 ---
 
 ## SQL DDL

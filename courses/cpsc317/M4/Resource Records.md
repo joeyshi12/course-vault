@@ -1,11 +1,6 @@
 ---
-course: CPSC317
-title: Resource Records
-topic: DNS
 tags:
   - dns-caching
-module: 4
-date: [[2022-10-14]]
 ---
 
 ```

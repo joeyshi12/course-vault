@@ -1,7 +1,6 @@
 ---
 tags:
   - routing
-module: 2
 ---
 ## Forwarding
 - Each router has a **forwarding table** that determines which maps destination addresses to outbound links

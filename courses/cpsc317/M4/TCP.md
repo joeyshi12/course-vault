@@ -1,10 +1,5 @@
 ---
-course: CPSC317
-title: TCP
-topic: TCP
 tags:
-module: 4
-date: [[2022-10-23]]
 ---
 
 **Full-duplex service**

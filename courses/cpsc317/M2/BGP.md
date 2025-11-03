@@ -1,9 +1,6 @@
 ---
-course: CPSC317
-title: BGP
 tags:
   - network-protocols/application-layer
-module: 2
 ---
 
 ## Border Gate Protocol

@@ -1,5 +1,4 @@
 ---
-course: "cpsc313"
 tutorial: 10
 ---
 

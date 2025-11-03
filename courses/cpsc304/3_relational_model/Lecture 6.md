@@ -1,5 +1,4 @@
 ---
-lecture: 6
 ---
 
 ## Foreign Key Constraints

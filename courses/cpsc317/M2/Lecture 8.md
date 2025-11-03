@@ -1,29 +1,24 @@
 ---
-course: cpsc317
-topic: AS Organization
 tags:
-  - path-vectors
-  - aggregation
-  - bgp-internals
-module: 2
-lecture: 8
+  - bgp
 ---
 
 ## Topics
+
 - Path Vectors
 - Aggregation
 - BGP Internals
 
 ## Autonomous System (AS)
-- An autonomous system (AS) is a collection of  connected Internet Protocol (IP) routing prefixes under  the control of one or more network operators on behalf  of a single administrative entity or domain that  presents a common, clearly defined routing policy to  the Internet.
- - A unique ASN is allocated to each AS for use routing.   The ASN uniquely identifies each network on the   Internet.  
--  Until 2007, AS numbers were defined as 16-bit   integers, but are now 32-bit numbers (still supporting   the old style)
+
+- An autonomous system (AS) is a collection of  connected Internet Protocol (IP) routing prefixes under the control of one or more network operators on behalf  of a single administrative entity or domain that  presents a common, clearly defined routing policy to the Internet.
+ - A unique ASN is allocated to each AS for use routing. The ASN uniquely identifies each network on the Internet.  
+-  Until 2007, AS numbers were defined as 16-bit integers, but are now 32-bit numbers (still supporting the old style)
 
 ## Peering and Transit
-- Peering
-    - Two ISPs pass traffic between each other for their customers
-- Transit
-    - Passing traffic across an AS to get to a different AS
+
+- Peering: two ISPs pass traffic between each other for their customers
+- Transit: passing traffic across an AS to get to a different AS
 - Stub network, single provider as Internet Gateway
 
 ## BGP - Path Vector Routing
@@ -38,6 +33,7 @@ $W, A, B, C, X, Y$ are AS numbers
 - Requires/trusts BGP tables are accurate
 
 ## Scalable Design
+
 - Interior gateway protocols cannot scale to the Internet
 - Routing table sizes is a problem in the core
 

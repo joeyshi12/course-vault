@@ -1,6 +1,4 @@
 ---
-course: "wrds150b"
-title: "Data Visualization"
 ---
 
 Required in final paper

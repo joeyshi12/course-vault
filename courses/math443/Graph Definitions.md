@@ -1,9 +1,6 @@
 ---
-course: MATH443
-title: Graph Definitions
 tags:
   - []
-date: [[2023-01-09]]
 ---
 
 ## Definitions

@@ -1,8 +1,6 @@
 ---
 tags:
   - network-protocols/application-layer/dns
-module: 4
-lecture: 2
 ---
 - Uses UDP
 - 4 requests, 4 replies

@@ -1,9 +1,6 @@
 ---
-course: CPSC406
-title: Orthogonal Projection
 tags:
   - []
-date: [[2023-01-12]]
 ---
 
 ![[Orthogonal Projection 2023-01-12 11.29.28.excalidraw]]

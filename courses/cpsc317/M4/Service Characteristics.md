@@ -1,10 +1,6 @@
 ---
-course: CPSC317
-title: Service Characteristics
 topic:
 tags:
-module: 4
-date: [[2022-10-19]]
 ---
 
 General Properties:

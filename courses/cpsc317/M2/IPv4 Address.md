@@ -1,10 +1,6 @@
 ---
-course: CPSC317
-title: IPv4 Address
 tags:
   - 
-module: 2
-date: [[2022-12-15]]
 ---
 
 ## IPv4 Address

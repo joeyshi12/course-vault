@@ -1,7 +1,4 @@
 ---
-topic: Exercises
-module: 6
-date: [[2022-10-25]]
 ---
 
 ## Table Definitions

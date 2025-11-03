@@ -1,6 +1,4 @@
 ---
-course: "cpsc313"
-title: "Representing Files on Disk"
 ---
 
 ![[Pasted image 20220314140503.png|700]]

@@ -1,6 +1,4 @@
 ---
-course: "wrds150b"
-title: "Correlation
 ---
 
 ![[Pasted image 20220309120322.png]]

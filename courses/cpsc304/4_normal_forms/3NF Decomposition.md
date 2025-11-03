@@ -1,6 +1,4 @@
 ---
-module: 4
-lecture: 10
 tags:
   - normal-forms
   - 3NF

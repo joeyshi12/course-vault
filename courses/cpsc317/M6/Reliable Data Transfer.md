@@ -1,11 +1,6 @@
 ---
-course: CPSC317
-title: Reliable Data Transfer
-topic: RDT
 tags:
   - rdt
-module: 6
-date: [[2022-11-02]]
 ---
 
 Recall that reliability in networking means either

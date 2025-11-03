@@ -1,8 +1,3 @@
----
-course: "cpsc314"
-title: "Texture Filtering"
----
-
 Why access texture values using things called "Sampler2D", "SamplerCube", etc...?
 
 ## Texture Magnification

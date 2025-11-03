@@ -1,8 +1,5 @@
 ---
-course: "cpsc313"
-title: "Building a File Index"
 week: 10
-date: "3/16"
 ---
 
 Main memory is treated as a cache for persistent data

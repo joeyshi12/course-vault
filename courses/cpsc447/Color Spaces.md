@@ -1,8 +1,5 @@
 ---
-course: MATH447
-title: Color Spaces
 tags:
-date: [[2023-02-14]]
 ---
 
 Hue

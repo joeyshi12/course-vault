@@ -1,13 +1,7 @@
 ---
-course: CPSC317
-title: Sliding Window
 tags:
-  - gbn
-  - sr
-module: 6
-date: [[2022-11-14]]
+  - tcp
 ---
-
 ## Go-Back-N
 - The `base` is the oldest unacknowledged packet and `nextseqnum` is the seqnum of the next packet to be sent
 - $SWS = N$ and $RWS = 1$

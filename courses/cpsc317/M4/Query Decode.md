@@ -1,7 +1,6 @@
 ---
 tags:
   - network-protocols/application-layer/dns
-module: 4
 ---
 The name of a [[Resource Records]] may be a pointer, label
 Refer to https://datatracker.ietf.org/doc/pdf/rfc1035

@@ -1,7 +1,4 @@
 ---
-course: "cpsc314"
-topic: "Shading 2 and PBR 1"
-lecture: 17
 chapters: [14]
 ---
 

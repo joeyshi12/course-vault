@@ -1,9 +1,6 @@
 ---
-course: MATH447
-title: Data Joins
 tags:
   - d3
-date: [[2023-01-20]]
 ---
 
 ## Virtual Selections

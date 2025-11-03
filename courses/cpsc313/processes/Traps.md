@@ -1,6 +1,4 @@
 ---
-course: "cpsc313"
-title: "Traps"
 ---
 
 ## Traps

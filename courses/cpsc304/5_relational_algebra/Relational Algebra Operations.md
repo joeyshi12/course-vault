@@ -1,6 +1,4 @@
 ---
-module: 5
-date: [[2022-10-13]]
 ---
 
 ## Selection

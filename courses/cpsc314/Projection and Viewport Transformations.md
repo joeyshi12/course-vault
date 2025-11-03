@@ -1,7 +1,4 @@
 ---
-course: "cpsc314"
-topic: "Some Remaining Vertex Shader Topics"
-lecture: 13
 ---
 
 ![[Pasted image 20220209100947.png|700]]

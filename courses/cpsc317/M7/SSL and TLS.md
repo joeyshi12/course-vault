@@ -1,15 +1,11 @@
 ---
-course: CPSC317
-title: SSL/TLS
 topic:
 tags:
   - ssl
   - tls
-module: 7
-date: [[2022-12-05]]
 ---
-
 ## SSL
+
 - Bob = Client, Alice = Server
 - Bob sends Alice an SSL hello
 - Alice sends Bob a certificate to verify her identity & public key

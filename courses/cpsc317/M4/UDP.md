@@ -1,10 +1,5 @@
 ---
-course: CPSC317
-title: UDP
-topic: UDP
 tags:
-module: 4
-date: [[2022-10-21]]
 ---
 
 ## UDP Client-Server Flow

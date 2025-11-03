@@ -1,10 +1,5 @@
 ---
-course: CPSC317
-title: M6 Learning Goals
-topic: Learning Goals
 tags:
-module: 6
-date: [[2022-11-07]]
 ---
 
 **A.  Communicating State Machines**

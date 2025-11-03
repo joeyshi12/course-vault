@@ -2,8 +2,6 @@
 tags:
   - normal-forms
   - 3NF
-module: 4
-lecture: 10
 ---
 
 ## Determine the Minimal Cover

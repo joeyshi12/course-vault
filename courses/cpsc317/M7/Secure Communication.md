@@ -1,9 +1,5 @@
 ---
-course: CPSC317
-title: Secure Communication
-topic: Security
 tags:
-module: 7
 ---
 
 | Aspect                                       | Description                                                            |

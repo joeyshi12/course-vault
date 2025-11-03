@@ -1,7 +1,4 @@
 ---
-topic: Aggregation
-module: 6
-date: [[2022-11-08]]
 ---
 
 Aggregate operators returns a single number

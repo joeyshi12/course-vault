@@ -1,6 +1,4 @@
 ---
-course: "wrds150b"
-title: "Critical Summary"
 ---
 
 - Is a detailed version of the research proposal introduction

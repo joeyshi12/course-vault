@@ -1,8 +1,6 @@
 ---
-title: Chapter 9 Planarity
 tags:
   - planarity
-date: [[2023-03-13]]
 ---
 
 # Planarity

@@ -1,10 +1,6 @@
 ---
-course: CPSC317
-title: MAC Address
 tags:
   - network-protocols/link-layer
-module: 3
-date: [[2022-10-5]]
 ---
 
 # Media Access Control Address

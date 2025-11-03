@@ -1,7 +1,4 @@
 ---
-course: "cpsc317"
-module: "m1"
-lecture: 1
 ---
 
 1. Design

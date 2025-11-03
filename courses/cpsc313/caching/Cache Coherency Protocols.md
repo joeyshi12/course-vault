@@ -1,6 +1,4 @@
 ---
-course: "cpsc313"
-title: "Multicore Caching: MSI Protocol"
 source: "P17.1"
 ---
 

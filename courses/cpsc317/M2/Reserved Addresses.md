@@ -1,11 +1,7 @@
 ---
-course: CPSC317
-title: Reserved Addresses
 tags:
   - ip
   - addressing
-module: 2
-date: [[2022-10-13]]
 ---
 
 

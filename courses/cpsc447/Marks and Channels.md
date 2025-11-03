@@ -1,8 +1,5 @@
 ---
-course: MATH447
-title: Marks and Channels
 tags:
-date: [[2023-01-24]]
 ---
 
 ## Marks

@@ -1,10 +1,6 @@
 ---
-course: CPSC317
-title: ICMP
 tags:
   - network-protocols/internet-layer
-module: 2
-date: [[2022-12-14]]
 ---
 
 # Internet Control Message Protocol

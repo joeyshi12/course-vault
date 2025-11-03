@@ -1,6 +1,4 @@
 ---
-course: "cpsc313"
-title: "Memory Hierarchy & Strided Access"
 ---
 
 ## Memory Hierarchy

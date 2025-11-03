@@ -1,5 +1,4 @@
 ---
-topic: "Caching Speedup"
 ---
 
 We define **speed up** to be

@@ -1,6 +1,4 @@
 ---
-course: "cpsc314"
-title: "Spines and Morphing"
 chapters: [9]
 ---
 
