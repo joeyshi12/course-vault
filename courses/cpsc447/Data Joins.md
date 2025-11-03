@@ -1,7 +1,8 @@
 ---
 course: MATH447
 title: Data Joins
-tags: D3
+tags:
+  - d3
 date: [[2023-01-20]]
 ---
 

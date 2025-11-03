@@ -2,7 +2,8 @@
 course: CPSC317
 title: Resource Records
 topic: DNS
-tags: DNS Caching
+tags:
+  - dns-caching
 module: 4
 date: [[2022-10-14]]
 ---

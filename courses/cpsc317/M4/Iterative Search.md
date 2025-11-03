@@ -1,13 +1,9 @@
 ---
-course: CPSC317
-title: Iterative Search
-topic: DNS Search
-tags: DNS
+tags:
+  - network-protocols/application-layer/dns
 module: 4
 lecture: 2
-date: [[2022-10-14]]
 ---
-
 - Uses UDP
 - 4 requests, 4 replies
 

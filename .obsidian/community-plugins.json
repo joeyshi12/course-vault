@@ -1,12 +1,11 @@
 [
   "table-editor-obsidian",
   "obsidian-outliner",
-  "obsidian-collapse-all-plugin",
   "dataview",
   "obsidian-excalidraw-plugin",
   "nldates-obsidian",
-  "oz-clear-unused-images",
   "omnisearch",
   "obsidian-doubleshift",
-  "obsidian-enhancing-export"
+  "obsidian-enhancing-export",
+  "tag-wrangler"
 ]

@@ -1,8 +1,7 @@
 ---
-course: CPSC317
-title: ARP Packet Format
-topic: ARP
-tags: ARP, Packet Format
+tags:
+  - arp
+  - packet-format
 module: 3
 date: 2022-10-5
 ---

@@ -2,7 +2,9 @@
 course: CPSC317
 title: TCP Versus UDP
 topic: Transport Level Protocols
-tags: TCP, UDP
+tags:
+  - tcp
+  - udp
 module: 4
 date: [[2022-10-17]]
 ---

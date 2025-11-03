@@ -1,9 +1,9 @@
 ---
 course: CPSC317
 title: OSPF
-tags: AS
+tags:
+  - network-protocols/application-layer
 module: 2 
-date: [[2022-12-16]]
 ---
 
 ## Open Shortest Path First

@@ -1,7 +1,8 @@
 ---
 course: MATH443
 title: Colouring
-tags: colouring
+tags:
+  - colouring
 date: [[2023-03-22]]
 ---
 

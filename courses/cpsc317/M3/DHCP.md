@@ -1,7 +1,9 @@
 ---
 course: CPSC317
 title: DHCP
-tags: DHCP, IP
+tags:
+  - [dhcp
+  - ip]
 module: 3
 date: [[2022-10-12]]
 ---

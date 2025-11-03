@@ -1,7 +1,8 @@
 ---
 course: CPSC317
 title: M3 Learning Goals
-tags: Learning Goals
+tags:
+  - learning-goals
 module: 3
 date: [[2022-10-12]]
 ---

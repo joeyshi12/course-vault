@@ -1,7 +1,8 @@
 ---
 course: CPSC406
 title: Linear Model
-tags: []
+tags:
+  - []
 date: [[2023-01-10]]
 ---
 

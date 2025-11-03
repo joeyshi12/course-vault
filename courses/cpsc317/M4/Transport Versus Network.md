@@ -2,7 +2,8 @@
 course: CPSC317
 title: Transport Versus Network
 topic: Transport Layer Protocols
-tags: Protocol Stack
+tags:
+  - protocol-stack
 module: 4
 date: [[2022-10-17]]
 ---

@@ -4,7 +4,6 @@ title: Secure Communication
 topic: Security
 tags:
 module: 7
-date: [[2022-11-23]]
 ---
 
 | Aspect                                       | Description                                                            |

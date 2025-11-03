@@ -2,7 +2,8 @@
 course: CPSC317
 title: One's Complement
 topic:
-tags: Checksums
+tags:
+  - checksums
 module: 6
 date: [[2022-11-02]]
 ---

@@ -1,7 +1,9 @@
 ---
 course: CPSC317
 title: Ethernet Frame Format
-tags: Frame, Format
+tags:
+  - frame
+  - format
 module: 3
 date: [[2022-10-12]]
 ---

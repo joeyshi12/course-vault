@@ -1,48 +1,12 @@
 {
   "collapse-filter": false,
-  "search": "path:bsc4/cpsc317",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:bsc3/cpsc313",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "path:bsc3/cpsc314",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:bsc3/wrds150b",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "path:bsc4/cpsc304",
-      "color": {
-        "a": 1,
-        "rgb": 5417696
-      }
-    },
-    {
-      "query": "path:bsc4/cpsc317",
-      "color": {
-        "a": 1,
-        "rgb": 14734418
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -53,6 +17,6 @@
   "repelStrength": 8.58737244897959,
   "linkStrength": 1,
   "linkDistance": 120,
-  "scale": 1.7187855572530413,
-  "close": true
+  "scale": 0.7639046921124627,
+  "close": false
 }

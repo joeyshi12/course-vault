@@ -1,7 +1,0 @@
-{
-  "deleteOption": ".trash",
-  "logsModal": true,
-  "excludedFolders": "bsc3,bsc4",
-  "ribbonIcon": false,
-  "excludeSubfolders": true
-}

@@ -1,12 +1,8 @@
 ---
-course: CPSC317
-title: Query Decode
-topic:
-tags: A2
+tags:
+  - network-protocols/application-layer/dns
 module: 4
-date: [[2022-10-14]]
 ---
-
 The name of a [[Resource Records]] may be a pointer, label
 Refer to https://datatracker.ietf.org/doc/pdf/rfc1035
 
@@ -24,7 +20,5 @@ The header is 2 bytes.
 ![[Pasted image 20221022161148.png|500]]
 
 ## Resource record format
-
-Name:
 
 ![[Pasted image 20221022161219.png|500]]

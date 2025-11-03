@@ -1,11 +1,8 @@
 ---
-course: CPSC317
-title: Recursive Search
-topic: DNS Search
-tags: DNS
+tags:
+  - network-protocols/application-layer/dns
 module: 4
 lecture: 2
-date: [[2022-10-14]]
 ---
 
 - Pro: intermediate results can get cached

@@ -1,8 +1,7 @@
 ---
-topic: Datalog
-tags: datalog
+tags:
+  - datalog
 module: 7
-date: [[2022-11-22]]
 ---
 
 Table schemas:

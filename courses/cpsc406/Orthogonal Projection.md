@@ -1,7 +1,8 @@
 ---
 course: CPSC406
 title: Orthogonal Projection
-tags: []
+tags:
+  - []
 date: [[2023-01-12]]
 ---
 

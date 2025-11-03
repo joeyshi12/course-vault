@@ -1,11 +1,8 @@
 ---
-course: CPSC317
-title: Domain Name System
-topic: DNS
-tags: DNS
-module:  4
+tags:
+  - network-protocols/application-layer/dns
+module: 4
 lecture: 1
-date: 2022-10-12
 ---
 
 A **domain name** is an identification string that defines a realm

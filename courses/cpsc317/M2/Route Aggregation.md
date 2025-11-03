@@ -1,9 +1,9 @@
 ---
 course: CPSC317
 title: Route Aggregation
-tags: IP
+tags:
+  - network-protocols/internet-layer
 module: 3
-date: 2022-10-12
 ---
 
 Route aggregation/supernetting reduces the size of a routing table

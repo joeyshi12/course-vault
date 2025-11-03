@@ -1,7 +1,8 @@
 ---
 course: CPSC317
 title: ICMP
-tags: ICMP
+tags:
+  - network-protocols/internet-layer
 module: 2
 date: [[2022-12-14]]
 ---

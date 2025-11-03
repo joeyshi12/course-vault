@@ -1,10 +1,9 @@
 ---
 tags:
-- normal-forms
-- 3NF
+  - normal-forms
+  - 3NF
 module: 4
 lecture: 10
-date: [[2022-10-11]]
 ---
 
 ## Determine the Minimal Cover

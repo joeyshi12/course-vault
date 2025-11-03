@@ -1,7 +1,9 @@
 ---
 course: CPSC317
 title: Sliding Window
-tags: GBN, SR
+tags:
+  - gbn
+  - sr
 module: 6
 date: [[2022-11-14]]
 ---

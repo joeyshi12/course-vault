@@ -1,9 +1,9 @@
 ---
 course: CPSC317
 title: ARP
-tags: ARP
+tags:
+  - network-protocols/link-layer
 module: 3
-date: [[2022-10-5]]
 ---
 
 # Address Resolution Protocol
